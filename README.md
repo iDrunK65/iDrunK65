@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iDrunK65&show_icons=true&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDrunK65&theme=dark&hide_border=true)
+
 <!--
 **iDrunK65/iDrunK65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
